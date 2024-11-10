@@ -4,6 +4,8 @@ I'm a postgraduate student in Software Engineering based in Brazil, with a passi
 - 🔭 I’m currently working on e-commerce project
 - 🌱 I’m currently learning frameworks and Microservices patterns.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-majesty)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jacob-majesty/jacob-majesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
