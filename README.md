@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Jacob!
 I'm a postgraduate student in Software Engineering based in Brazil, with a passion for Problem-solving.<br/> I specialize in microservices development using Spring Boot, and I enjoy exploring design patterns to create clean, maintainable code.  
 
 - 🔭 I’m currently working on e-commerce project
