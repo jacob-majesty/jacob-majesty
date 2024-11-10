@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a postgraduate student in Software Engineering based in Brazil, with a passion for Problem-solving. I specialize in microservices development using Spring Boot, and I enjoy exploring design patterns to create clean, maintainable code.  
+
+- 🔭 I’m currently working on e-commerce project
+- 🌱 I’m currently learning frameworks and Microservices patterns.
 
 <!--
 **jacob-majesty/jacob-majesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
