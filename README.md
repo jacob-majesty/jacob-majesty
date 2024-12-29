@@ -3,7 +3,14 @@ I'm a postgraduate student in Software Engineering based in Brazil, with a passi
 
 - 🔭 I’m currently working on e-commerce project
 - 🌱 I’m currently learning frameworks and Microservices patterns.
-- I speak fluently Portuguese, English and French
+-  I speak fluently Portuguese, English and French
+
+-  Don't be fooled by the many books on complexity or by the
+many complex and arcane algorithms you find in this book
+or elsewhere. Although there are no textbooks on simplicity,
+simple systems work and complex don't.
+          <br>     —"Transaction Processing: Concepts and Techniques,"
+             JIM GRAY, 1992
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-majesty)](https://github.com/anuraghazra/github-readme-stats)
 
