@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Jacob!
-I'm a postgraduate student in Software Engineering based in Brazil, with a passion for Problem-solving.<br/> I specialize in microservices development using Spring Boot, and I enjoy exploring design patterns to create clean, maintainable code.  
+I am a Postgraduate in Software Engineering based in Brazil, passionate about building efficient, scalable, and clean software systems.<br> My focus lies in leveraging modern technologies and design principles to solve real-world problems.
 
 - 🔭 I’m currently working on e-commerce project
 - 🌱 I’m currently learning frameworks and Microservices patterns.
--  I speak fluently Portuguese, English and French
+-  **Languages**: Portuguese, English and French
 
 -  Don't be fooled by the many books on complexity or by the
 many complex and arcane algorithms you find in this book
