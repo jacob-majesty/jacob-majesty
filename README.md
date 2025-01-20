@@ -56,7 +56,7 @@ simple systems work and complex don't.
 
 ---
 
-# 📊 GitHub Stats:
+<!--  # 📊 GitHub Stats:  -->
 <!--![jacob-majesty's Stats](https://github-readme-stats.vercel.app/api?username=jacob-majesty&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-majesty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
