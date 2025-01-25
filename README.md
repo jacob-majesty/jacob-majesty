@@ -3,7 +3,7 @@ I am a Postgraduate in Software Engineering based in Brazil, passionate about bu
 
 - 🔭 I’m currently working on e-commerce project
 - 🌱 I’m currently learning frameworks and Microservices patterns.
--  **Languages**: Portuguese, English and French
+- 💬**Languages**: Fluent in Portuguese, English and French
 
   *Don't be fooled by the many books on complexity or by the
 many complex and arcane algorithms you find in this book
@@ -53,14 +53,10 @@ simple systems work and complex don't.
 </div>
 
 
-
----
-
 <!--  # 📊 GitHub Stats:  -->
 <!--![jacob-majesty's Stats](https://github-readme-stats.vercel.app/api?username=jacob-majesty&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-majesty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
----
 [![](https://visitcount.itsvg.in/api?id=jacob-majesty&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
