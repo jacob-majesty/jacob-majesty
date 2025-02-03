@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Jacob!
-I am a Postgraduate in Software Engineering based in Brazil, passionate about building efficient, scalable, and clean software systems.<br> My focus lies in leveraging modern technologies and design principles to solve real-world problems.
 
-- 🔭 I’m currently working on e-commerce project
-- 🌱 I’m currently learning frameworks and Microservices patterns.
-- 💬**Languages**: Fluent in Portuguese, English and French
+I am passionate about building efficient, scalable systems and solving complex problems through code, while continuously adapting to new technologies and improving my skills to deliver high-quality solutions.
+- **Alma Mater**: Postgraduate at Universidade Tecnológica Federal do Paraná
+- **Skills**: Microservices | Design Patterns | Problem Solving
+- **Languages**: Fluent in Portuguese, English and French
 
   *Don't be fooled by the many books on complexity or by the
 many complex and arcane algorithms you find in this book
