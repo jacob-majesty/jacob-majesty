@@ -2,7 +2,7 @@
 
 I am passionate about building efficient, scalable systems and solving complex problems through code, while continuously adapting to new technologies and improving my skills to deliver high-quality solutions.
 - **Alma Mater**: Postgraduate at Universidade Federal do Paraná
-- **AWS Certified** | Cloud Enthusiast 
+- **AWS Certified Solutions Architect Associate** | Cloud Enthusiast 
 - **Skills**: Microservices | Design Patterns | Problem Solving
 - **Languages**: Fluent in Portuguese, English and French
 
